@@ -9,13 +9,13 @@ description: Insights from the Ookla Speedtest Global Index
 
 <FlatUiTable
   data={{
-    url: 'sgi_fb_aug_2024.csv'
+    url: 'sgi_fb_aug_2024_upd.csv'
   }}
  />
 
 <PlotlyBarChart
   data={{
-    url: 'sgi_fb_aug_2024.csv'
+    url: 'sgi_fb_aug_2024_upd.csv'
   }}
   title="Median speeds by country"
   xAxis="country"
