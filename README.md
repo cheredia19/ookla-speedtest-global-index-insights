@@ -24,15 +24,6 @@ description: Insights from the Ookla Speedtest Global Index
 
 <PlotlyBarChart
   data={{
-    url: 'sgi_fb_aug_2024.csv'
-  }}
-  title=""
-  xAxis="major_area"
-  yAxis="mbps"
-/> 
-
-<PlotlyBarChart
-  data={{
     url: 'fb_ranks_aug_2024.csv'
   }}
   title="Number of countries by median speeds"
@@ -47,6 +38,16 @@ description: Insights from the Ookla Speedtest Global Index
     url: 'sgi_mob_aug_2024.csv'
   }}
  />
+
+<PlotlyBarChart
+  data={{
+    url: 'sgi_mob_aug_2024.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="mbps"
+/> 
+ 
 
 ### Fastest speed
 
