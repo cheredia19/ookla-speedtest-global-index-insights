@@ -13,6 +13,14 @@ description: Insights from the Ookla Speedtest Global Index
   }}
  />
 
+<PlotlyBarChart
+  data={{
+    url: 'sgi_fb_aug_2024.csv'
+  }}
+  title=""
+  xAxis="country"
+  yAxis="mbps"
+/> 
 
 <PlotlyBarChart
   data={{
