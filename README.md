@@ -17,7 +17,7 @@ description: Insights from the Ookla Speedtest Global Index
   data={{
     url: 'sgi_fb_aug_2024.csv'
   }}
-  title=""
+  title="Median speeds by country"
   xAxis="country"
   yAxis="mbps"
 /> 
