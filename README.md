@@ -5,7 +5,7 @@ description: Insights from the Ookla Speedtest Global Index
 
 <FlatUiTable
   data={{
-    url: 'data.csv'
+    url: 'sgi_fb_aug_24.csv'
   }}
  />
 
