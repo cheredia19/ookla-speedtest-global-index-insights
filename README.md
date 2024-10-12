@@ -20,3 +20,11 @@ description: Insights from the Ookla Speedtest Global Index
     url: 'sgi_mob_aug_2024.csv'
   }}
  />
+
+### Fastest speed
+
+<FlatUiTable
+  data={{
+    url: 'sgi_fb_mob_fastest.csv'
+  }}
+ /> 
