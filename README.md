@@ -13,6 +13,16 @@ description: Insights from the Ookla Speedtest Global Index
   }}
  />
 
+
+<PlotlyBarChart
+  data={{
+    url: 'fb_ranks_aug_2024.csv'
+  }}
+  title="Number of countries by median speeds"
+  xAxis="speed"
+  yAxis="countries"
+/> 
+
 ### Mobile
 
 <FlatUiTable
