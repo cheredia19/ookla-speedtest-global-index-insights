@@ -71,6 +71,15 @@ The countries from the following major areas averaged the highest internet speed
   yAxis="max_mbps"
 /> 
 
+In contrast, these are the nations per major area with the lowest internet speed:
+
+- Africa: Botswana (8.53 Mbps).
+- Asia: Turkmenistan (3.63 Mbps).
+- Europe: Bosnia and Herzegovina (30.74 Mbps).
+- Latin America and the Caribbean: Suriname (12.09 Mbps).
+- Northern America: Canada (188.2 Mbps).
+- Oceania: Fiji (26.36 Mbps).
+
 <PlotlyBarChart
   data={{
     url: 'fb_area_min_mbps.csv'
