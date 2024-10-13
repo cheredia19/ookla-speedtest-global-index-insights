@@ -183,6 +183,10 @@ The following chart shows the nations ordered by mobile speed:
   xAxis="country"
   yAxis="mbps"
 /> 
+
+Three out of 10 countries (30.6%) **locate in the 20-40 Mbps range** when it comes to mobile speed. Among them, **Guatemala**, **Iran**, **Lebanon**, **Argentina**, **Mexico**, **Indonesia**, **Egypt**, **Russia**, **Nigeria**, and **Ukraine**, to cite a few.
+
+Almost two thirds (64%) of the territories listed **record a speed under 60 Mbps**, according to the Global Index. A sign that maybe the mobile internet is not as developed as the fixed broadband in most countries.
  
 <PlotlyBarChart
   data={{
