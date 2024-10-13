@@ -3,6 +3,10 @@ title: Ookla Speedtest Global Index insights
 description: The Asian and European countries recorded the best mobile and fixed broadband median internet speeds in August 2024
 ---
 
+###### Disclaimer
+
+*This report is intended just for exploring the DataHub platform functionalities, **not** for commercial use. All the data used in this note is property of Ookla, LLC*.
+
 In today’s fast-paced, digitally connected world, a reliable and fast internet connection is no longer a luxury but a necessity. 
 
 From remote work and online learning to streaming entertainment and staying in touch with loved ones, the internet plays a central role in almost every aspect of daily life. 
@@ -308,3 +312,5 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
     url: 'sgi_fb_mob_fastest.csv'
   }}
  /> 
+
+ **Data source:** [Ookla Speedtest Global Index](https://www.speedtest.net/global-index)
