@@ -80,15 +80,6 @@ The countries from the following major areas averaged the highest internet speed
   yAxis="min_mbps"
 />
 
-The countries from the following major areas averaged the highest internet speed:
-
-- Africa: Egypt (76.48 Mbps).
-- Asia: United Arab Emirates (297.62 Mbps).
-- Europe: France (223.72 Mbps).
-- Latin America and the Caribbean: Chile (265.62 Mbps).
-- Northern America: United States (242.27 Mbps).
-- Oceania: New Zealand (178.8 Mbps).
-
 <PlotlyBarChart
   data={{
     url: 'fb_region_max_mbps.csv'
