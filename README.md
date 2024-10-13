@@ -359,12 +359,12 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
         y: 74.87
       },
       {
-        x: "JAX-2020",
-        y: 951880
+        x: "Oceania (max)",
+        y: 97.86
       },
       {
-        x: "JAX-2024",
-        y: 997164
+        x: "Oceania (min)",
+        y: 78.46
       }
     ]
   }}
