@@ -153,7 +153,19 @@ And the States that registered the lowest fixed broadband speed by region were:
   yAxis="min_mbps"
 /> 
 
-## Mobile
+## Mobile: two countries over 300 megabits per second
+
+**The United Arab Emirates** also has the fastest mobile connection with a staggering speed of 398.51 Mbps, according to the Ookla Speedtest Global Index. **The UAB mobile internet is even greater than their fixed broadband**. 
+
+**Qatar** (344.34) is second on the 111-territories list, and **Kuwait** (239.83 Mbps) is third-ranked. 
+
+The three Western-Asian outlets are **the only ones with a mobile speed of over 200 Mbps**.
+
+Two other Asian countries (**South Korea** and **Saudi Arabia**) and five European nations (**Netherlands**, **Denmark**, **Norway**, **Bulgaria**, and **Luxembourg**) make the top ten.
+
+**Singapore** is in eleventh place. Despite having a fixed broadband internet speed of 297.57 Mbps, the [city-state](https://www.britannica.com/place/Singapore) mobile performance is *just* 114.3 Mbps.
+
+The complete list is below:
 
 <FlatUiTable
   data={{
