@@ -9,7 +9,7 @@ From remote work and online learning to streaming entertainment and staying in t
 
 The **Ookla Speedtest Global Index** is a valuable tool for understanding global internet performance, offering insights into which countries are leading in broadband and mobile internet speeds. 
 
-This data highlights the importance of infrastructure investment and provides a benchmark for individuals and businesses seeking faster, more reliable connectivity. 
+This data highlights the importance of infrastructure investment and provides a benchmark for individuals and businesses seeking faster, more reliable connectivity.
 
 Whether improving productivity, enhancing entertainment experiences, or ensuring seamless communication, having access to high-speed internet is crucial for navigating the demands of modern life. The [Ookla index](https://www.speedtest.net/global-index) helps track global progress, informing users and enabling better decisions for optimizing digital experiences.
 
@@ -172,6 +172,8 @@ The complete list is below:
     url: 'sgi_mob_aug_2024.csv'
   }}
  />
+
+The following chart shows the nations ordered by mobile speed: 
 
 <PlotlyBarChart
   data={{
