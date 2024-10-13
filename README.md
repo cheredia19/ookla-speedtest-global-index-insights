@@ -47,6 +47,15 @@ description: Insights from the Ookla Speedtest Global Index
   title="Minimum speed by major area"
   xAxis="major_area"
   yAxis="min_mbps"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'fb_region_max_mbps.csv'
+  }}
+  title="Maximum speed by region"
+  xAxis="region"
+  yAxis="max_mbps"
 /> 
 
 ### Mobile
