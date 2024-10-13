@@ -119,7 +119,30 @@ By UN regions, these are the countries with the highest fixed broadband internet
   title="Maximum speed by region"
   xAxis="region"
   yAxis="max_mbps"
-/> 
+/>
+
+The States that registered the lowest highest fixed broadband speed by region were:
+
+- Australia and New Zealand: **Australia** (71.87 Mbps).
+- Caribbean: **Dominican Republic** (36.1 Mbps).
+- Central America: **Belize** (44.74 Mbps).
+- Central Asia: **Turkmenistan** (3.53 Mbps).
+- Eastern Africa: **Ethiopia** (9.48 Mbps).
+- Eastern Asia: **Mongolia** (71.45 Mbps).
+- Eastern Europe: **Czechia** (69.55 Mbps).
+- Melanesia: **Fiji* (26.36 Mbps).
+- Middle Africa: **Cameroon** (9.94 Mbps).
+- Northern Africa: **Tunisia** (10.58 Mbps).
+- Northern America: **Canada** (188.2 Mbps).
+- Northern Europe: **Estonia** (80.14 Mbps).
+- South America: **Suriname** (12.09 Mbps).
+- South-Eastern Asia: **Myanmar (Burma)** (21.56 Mbps).
+- Southern Africa: **Botswana** (8.53 Mbps).
+- Southern Asia: **Afghanistan** (3.63 Mbps).
+- Southern Europe: **Bosnia and Herzegovina** (30.74 Mbps).
+- Western Africa: **Liberia** (8.9 Mbps).
+- Western Asia: **Syria** (3.65 Mbps).
+- Western Europe: **Germany** (90.63 Mbps).
 
 <PlotlyBarChart
   data={{
