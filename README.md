@@ -55,12 +55,12 @@ Around **17.4% of the countries registered a fixed broadband speed less than 20 
 
 The countries from the following major areas averaged the highest internet speed:
 
-- Africa: Egypt (76.48 Mbps).
-- Asia: United Arab Emirates (297.62 Mbps).
-- Europe: France (223.72 Mbps).
-- Latin America and the Caribbean: Chile (265.62 Mbps).
-- Northern America: United States (242.27 Mbps).
-- Oceania: New Zealand (178.8 Mbps).
+- Africa: **Egypt** (76.48 Mbps).
+- Asia: **United Arab Emirates** (297.62 Mbps).
+- Europe: **France** (223.72 Mbps).
+- Latin America and the Caribbean: **Chile** (265.62 Mbps).
+- Northern America: **United States** (242.27 Mbps).
+- Oceania: **New Zealand** (178.8 Mbps).
 
 <PlotlyBarChart
   data={{
@@ -73,12 +73,12 @@ The countries from the following major areas averaged the highest internet speed
 
 In contrast, these are the nations per major area with the lowest internet speed:
 
-- Africa: Botswana (8.53 Mbps).
-- Asia: Turkmenistan (3.63 Mbps).
-- Europe: Bosnia and Herzegovina (30.74 Mbps).
-- Latin America and the Caribbean: Suriname (12.09 Mbps).
-- Northern America: Canada (188.2 Mbps).
-- Oceania: Fiji (26.36 Mbps).
+- Africa: **Botswana** (8.53 Mbps).
+- Asia: **Turkmenistan** (3.63 Mbps).
+- Europe: **Bosnia and Herzegovina** (30.74 Mbps).
+- Latin America and the Caribbean: **Suriname** (12.09 Mbps).
+- Northern America: **Canada** (188.2 Mbps).
+- Oceania: **Fiji** (26.36 Mbps).
 
 <PlotlyBarChart
   data={{
