@@ -93,6 +93,42 @@ description: Insights from the Ookla Speedtest Global Index
   yAxis="countries"
 /> 
 
+<PlotlyBarChart
+  data={{
+    url: 'mob_area_max_mbps.csv'
+  }}
+  title="Maximum speed by major area"
+  xAxis="major_area"
+  yAxis="max_mbps"
+/> 
+
+<PlotlyBarChart
+  data={{
+    url: 'mob_area_min_mbps.csv'
+  }}
+  title="Minimum speed by major area"
+  xAxis="major_area"
+  yAxis="min_mbps"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'mob_region_max_mbps.csv'
+  }}
+  title="Maximum speed by region"
+  xAxis="region"
+  yAxis="max_mbps"
+/> 
+
+<PlotlyBarChart
+  data={{
+    url: 'mob_region_min_mbps.csv'
+  }}
+  title="Minimum speed by region"
+  xAxis="region"
+  yAxis="min_mbps"
+/> 
+
 ### Fastest speed
 
 <FlatUiTable
