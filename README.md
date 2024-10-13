@@ -184,9 +184,9 @@ The following chart shows the nations ordered by mobile speed:
   yAxis="mbps"
 /> 
 
-Three out of 10 countries (30.6%) **locate in the 20-40 Mbps range** when it comes to mobile speed. Among them, **Guatemala**, **Iran**, **Lebanon**, **Argentina**, **Mexico**, **Indonesia**, **Egypt**, **Russia**, **Nigeria**, and **Ukraine**, to cite a few.
+Three out of 10 countries (30.6%) **are located in the 20-40 Mbps range** when it comes to mobile speed. Among them are **Guatemala**, **Iran**, **Lebanon**, **Argentina**, **Mexico**, **Indonesia**, **Egypt**, **Russia**, **Nigeria**, and **Ukraine**, to cite a few.
 
-Almost two thirds (64%) of the territories listed **record a speed under 60 Mbps**, according to the Global Index. A sign that maybe the mobile internet is not as developed as the fixed broadband in most countries.
+Almost two-thirds (64%) of the territories listed **record a speed under 60 Mbps**, according to the Global Index. A sign that maybe the mobile internet is not as developed as the fixed broadband in most countries.
  
 <PlotlyBarChart
   data={{
@@ -197,7 +197,7 @@ Almost two thirds (64%) of the territories listed **record a speed under 60 Mbps
   yAxis="countries"
 />
 
-By the UN major areas, the countries with the fastest mobile internet are:
+Grouped by the UN's major areas, the countries with the fastest mobile internet are:
 
 - Africa: **South Africa** (51,96 Mbps).
 - Asia: **United Arab Emirates** (398,51 Mbps).
@@ -214,6 +214,15 @@ By the UN major areas, the countries with the fastest mobile internet are:
   xAxis="major_area"
   yAxis="max_mbps"
 /> 
+
+The countries with the slowest mobile internet by geographical area are:
+
+- Africa: **Libya** (15,1 Mbps).
+- Asia: **Yemen** (7,91 Mbps).
+- Europe: **Belarus** (11,98 Mbps).
+- Latin America and the Caribbean: **Bolivia** (11,26 Mbps).
+- Northern America: **Canada** (74,87 Mbps).
+- Oceania: **New Zealand** (78,46 Mbps).
 
 <PlotlyBarChart
   data={{
