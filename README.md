@@ -17,9 +17,9 @@ At DataHub, we have taken the latest available data (August 2024) on **fixed bro
 
 ## Fixed broadband: United Arab Emirates and Singapore set the tone
 
-The Global Index recorded a global performance of 93.99 Mbps (download) and 48.36 Mbps (upload) for fixed broadband connections in August.
+The Global Index recorded a global performance of 93.99 megabits per second (Mbps) -download- and 48.36 Mbps -upload- for fixed broadband connections in August.
 
-Three Asian territories recorded the **highest median speed**, measured in megabits per second (Mbps). The **United Arab Emirates** (297.62), **Singapore** (297.57), and [Hong Kong (special administrative region of China)](https://www.britannica.com/story/is-hong-kong-a-country) (280) are the first three out of 161. 
+Three Asian territories recorded the **highest median speed** of 161 countries all over the world: the **United Arab Emirates** (297.62), **Singapore** (297.57), and [Hong Kong (special administrative region of China)](https://www.britannica.com/story/is-hong-kong-a-country).
 
 **Chile**, the **United States of America**, **Thailand**, **France**, **Denmark**, **Iceland**, and **Israel** completed the top ten.
 
