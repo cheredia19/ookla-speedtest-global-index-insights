@@ -13,7 +13,7 @@ This data highlights the importance of infrastructure investment and provides a 
 
 Whether improving productivity, enhancing entertainment experiences, or ensuring seamless communication, having access to high-speed internet is crucial for navigating the demands of modern life. The [Ookla index](https://www.speedtest.net/global-index) helps track global progress, informing users and enabling better decisions for optimizing digital experiences.
 
-At DataHub, we have taken the latest available data (August 2024) on **fixed broadband** and **mobile** average speeds by country and “regionalized” the numbers based on the United Nations definition of regions ([1](https://population.un.org/wpp/DefinitionOfRegions/), [2](https://esa.un.org/MigFlows/Definition%20of%20regions.pdf)) to obtain information by areas and regions into those areas.
+At **DataHub**, we have taken the latest available data (August 2024) on **fixed broadband** and **mobile** average speeds by country and “regionalized” the numbers based on the United Nations definition of regions ([1](https://population.un.org/wpp/DefinitionOfRegions/), [2](https://esa.un.org/MigFlows/Definition%20of%20regions.pdf)) to obtain information by areas and regions into those areas.
 
 ## Fixed broadband: United Arab Emirates and Singapore set the tone
 
@@ -73,7 +73,7 @@ The countries from the following major areas averaged the highest internet speed
   yAxis="max_mbps"
 /> 
 
-In contrast, these are the nations per major area with the lowest internet speed:
+In contrast, these were the nations per major area with the lowest internet speed:
 
 - Africa: **Botswana** (8.53 Mbps).
 - Asia: **Turkmenistan** (3.63 Mbps).
@@ -91,7 +91,7 @@ In contrast, these are the nations per major area with the lowest internet speed
   yAxis="min_mbps"
 />
 
-By UN regions, these are the countries with the highest fixed broadband internet speed to date:
+By UN regions, these were the countries with the highest fixed broadband internet speed in August:
 
 - Australia and New Zealand: **New Zealand** (178.80 Mbps).
 - Caribbean: **Trinidad and Tobago** (119.78 Mbps).
@@ -157,15 +157,17 @@ And the States that registered the lowest fixed broadband speed by region were:
 
 ## Mobile: two countries over 300 megabits per second
 
-**The United Arab Emirates** also has the fastest mobile connection with a staggering speed of 398.51 Mbps, according to the Ookla Speedtest Global Index. **The UAB mobile internet is even greater than their fixed broadband**. 
+The mobile median performances of 111 countries in the five continents were 55.8 Mbps -download- and 11.02 Mbps -upload-. However, some performed better when compared with fixed broadband.
 
-**Qatar** (344.34) is second on the 111-territories list, and **Kuwait** (239.83 Mbps) is third-ranked. 
+**The United Arab Emirates** also had the fastest mobile connection with a staggering speed of 398.51 Mbps, according to the Ookla Speedtest Global Index. **The UAB mobile internet was even greater than their broadband**.
 
-The three Western-Asian outlets are **the only ones with a mobile speed of over 200 Mbps**.
+**Qatar** (344.34) was second on the 111-territories list, and **Kuwait** (239.83 Mbps) was third-ranked. 
 
-Two other Asian countries (**South Korea** and **Saudi Arabia**) and five European nations (**Netherlands**, **Denmark**, **Norway**, **Bulgaria**, and **Luxembourg**) make the top ten.
+The three Western-Asian outlets were **the only ones with a mobile speed of over 200 Mbps**.
 
-**Singapore** is in eleventh place. Despite having a fixed broadband internet speed of 297.57 Mbps, the [city-state](https://www.britannica.com/place/Singapore) mobile performance is *just* 114.3 Mbps.
+Two other Asian countries (**South Korea** and **Saudi Arabia**) and five European nations (**Netherlands**, **Denmark**, **Norway**, **Bulgaria**, and **Luxembourg**) made the top ten.
+
+**Singapore** was in eleventh place. Despite having a fixed broadband internet speed of 297.57 Mbps, the [city-state](https://www.britannica.com/place/Singapore) mobile performance was *just* 114.3 Mbps.
 
 The complete list is below:
 
@@ -186,9 +188,9 @@ The following chart shows the nations ordered by mobile speed:
   yAxis="mbps"
 /> 
 
-Three out of 10 countries (30.6%) **are located in the 20-40 Mbps range** when it comes to mobile speed. Among them are **Guatemala**, **Iran**, **Lebanon**, **Argentina**, **Mexico**, **Indonesia**, **Egypt**, **Russia**, **Nigeria**, and **Ukraine**, to cite a few.
+Three out of 10 countries (30.6%) **were located in the 20-40 Mbps range** when it comes to mobile speed. Among them were **Guatemala**, **Iran**, **Lebanon**, **Argentina**, **Mexico**, **Indonesia**, **Egypt**, **Russia**, **Nigeria**, and **Ukraine**, to cite a few.
 
-Almost two-thirds (64%) of the territories listed **record a speed under 60 Mbps**, according to the Global Index. A sign that maybe the mobile internet is not as developed as the fixed broadband in most countries.
+Almost two-thirds (64%) of the territories listed **recorded a speed under 60 Mbps**, according to the Global Index. A sign that maybe the mobile internet is not as developed as the fixed broadband in most countries.
  
 <PlotlyBarChart
   data={{
@@ -199,7 +201,7 @@ Almost two-thirds (64%) of the territories listed **record a speed under 60 Mbps
   yAxis="countries"
 />
 
-Grouped by the UN's major areas, the countries with the fastest mobile internet are:
+Grouped by the UN's major areas, the countries with the fastest mobile internet were:
 
 - Africa: **South Africa** (51,96 Mbps).
 - Asia: **United Arab Emirates** (398,51 Mbps).
@@ -217,7 +219,7 @@ Grouped by the UN's major areas, the countries with the fastest mobile internet 
   yAxis="max_mbps"
 /> 
 
-The countries with the slowest mobile internet by geographical area are:
+The countries with the slowest mobile internet by geographical area were:
 
 - Africa: **Libya** (15,1 Mbps).
 - Asia: **Yemen** (7,91 Mbps).
@@ -235,9 +237,9 @@ The countries with the slowest mobile internet by geographical area are:
   yAxis="min_mbps"
 />
 
-As seen above, mobile speed in the areas is similar, except in North America and Oceania, where it's faster.
+As seen above, mobile speed in the areas was similar, except in North America and Oceania.
 
-These countries hold the fastest mobile internet in their regions:
+These countries held the fastest mobile internet in their regions:
 
 - Australia and New Zealand: **Australia** (97,86 Mbps).
 - Caribbean: **Dominican Republic** (32,99 Mbps).
@@ -267,7 +269,7 @@ These countries hold the fastest mobile internet in their regions:
   yAxis="max_mbps"
 />
 
-And these States have the slowest mobile speed in their regions:
+And these States had the slowest mobile speed in their regions:
 
 - Australia and New Zealand: **New Zealand** (78,46 Mbps).
 - Caribbean: **Dominican Republic** (32,99 Mbps).
@@ -299,7 +301,7 @@ And these States have the slowest mobile speed in their regions:
 
 ## Fastest speed between fixed broadband and mobile in selected countries
 
-The DataHub team compared the countries where Ookla registered both fixed broadband and mobile speeds to find out which one is faster. The results are in the table below:
+The **DataHub team** compared the countries where Ookla registered both fixed broadband and mobile speeds to find out which one was faster. The results are in the table below:
 
 <FlatUiTable
   data={{
