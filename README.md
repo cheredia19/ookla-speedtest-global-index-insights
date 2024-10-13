@@ -263,7 +263,28 @@ These countries hold the fastest mobile internet in their regions:
   title="Maximum speed by region"
   xAxis="region"
   yAxis="max_mbps"
-/> 
+/>
+
+And these States have the slowest mobile speed in their regions:
+
+- Australia and New Zealand: **New Zealand** (78,46 Mbps).
+- Caribbean: **Dominican Republic** (32,99 Mbps).
+- Central America: **Nicaragua** (21,49 Mbps).
+- Central Asia: **Uzbekistan** (36,19 Mbps).
+- Eastern Africa: **Tanzania** (22,85 Mbps).
+- Eastern Asia: **Japan** (47,43 Mbps).
+- Eastern Europe: **Belarus** (11,98 Mbps).
+- Northern Africa: **Libya** (15,1 Mbps).
+- Northern America: **Canada** (74,87 Mbps).
+- Northern Europe: **Ireland** (41,12 Mbps).
+- South America: **Bolivia** (11,26 Mbps).
+- South-Eastern Asia: **Cambodia** (28,7 Mbps).
+- Southern Africa: **Namibia** (27,94 Mbps).
+- Southern Asia: **Afghanistan** (8,48 Mbps).
+- Southern Europe: **Bosnia and Herzegovina** (20,56 Mbps).
+- Western Africa: **Nigeria** (20,19 Mbps).
+- Western Asia: **Yemen** (7,91 Mbps).
+- Western Europe: **Germany** (56,69 Mbps).
 
 <PlotlyBarChart
   data={{
