@@ -13,6 +13,8 @@ This data highlights the importance of infrastructure investment and provides a 
 
 Whether improving productivity, enhancing entertainment experiences, or ensuring seamless communication, having access to high-speed internet is crucial for navigating the demands of modern life. The [Ookla index](https://www.speedtest.net/global-index) helps track global progress, informing users and enabling better decisions for optimizing digital experiences.
 
+At DataHub, we have taken the latest available data (August 2024) on average speeds by country (fixed broadband and mobile) and “regionalized” it to obtain information by areas and regions into those areas.
+
 ## Fixed broadband
 
 <FlatUiTable
