@@ -351,12 +351,12 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
         y: 11.26
       },
       {
-        x: "DAL-2020",
-        y: 1303212
+        x: "Northern America (max)",
+        y: 103.73
       },
       {
-        x: "DAL-2024",
-        y: 1302753
+        x: "Northern America (min)",
+        y: 74.87
       },
       {
         x: "JAX-2020",
