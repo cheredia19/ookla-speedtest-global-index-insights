@@ -40,9 +40,9 @@ The bar chart below shows the countries ordered by speed:
   yAxis="mbps"
 />
 
-Around 17.4% of the countries registered a fixed broadband speed less than 20 mbps, while seven out of 10 (70.8%) averaged an internet speed below mbps.
+Around **17.4% of the countries registered a fixed broadband speed less than 20 Mbps**, while **seven out of 10 (70.8%) averaged an internet speed below 100 Mbps**.
 
-Thirty-four nations (21.1%) recorded speeds between 100 and 200 Mbps, mostly in Europe, Asia, Latin America and the Caribbean.
+**Thirty-four nations (21.1%) recorded speeds between 100 and 200 Mbps**, mostly in Europe, Asia, Latin America and the Caribbean.
 
 <PlotlyBarChart
   data={{
