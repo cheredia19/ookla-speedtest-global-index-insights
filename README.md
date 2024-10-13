@@ -29,6 +29,8 @@ Below is the full list of median fixed broadband speeds by country:
   }}
  />
 
+The bar chart below shows the countries ordered by speed:
+
 <PlotlyBarChart
   data={{
     url: 'sgi_fb_aug_2024_upd.csv'
