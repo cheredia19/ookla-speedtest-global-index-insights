@@ -325,24 +325,32 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
       {
         x: "Africa (min)",
         y: 15.10
+      }.
+      {
+        x: "Asia (max)",
+        y: 398.51
+      },
+      {
+        x: "Asia (min)",
+        y: 7.91
       }
     ]
   }}
   spec={{
     $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-    title: "Population change in US major cities",
+    title: "Maximun and minimum Mbps speeds in major areas",
     data: {
       name: 'table'
     },
     encoding: {
       x: {
         field: 'x',
-        title: 'Cities',
+        title: 'Area',
         type: 'ordinal'
       },
       y: {
         field: 'y',
-        title: 'Population',
+        title: 'Mbps speed',
         type: 'quantitative'
       }
     },
