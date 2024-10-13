@@ -301,6 +301,8 @@ And these States had the slowest mobile speed in their regions:
   yAxis="min_mbps"
 />
 
+The following Vega chart compares the highest and lowest Mbps mobile speeds recorded by the Global Index in the six areas:
+
 <Vega
   data={{
     table: [
