@@ -299,21 +299,7 @@ And these States had the slowest mobile speed in their regions:
   title="Minimum speed by region"
   xAxis="region"
   yAxis="min_mbps"
-/> 
-
-## Fastest speed between fixed broadband and mobile in selected countries
-
-The **DataHub team** compared the countries where Ookla registered both fixed broadband and mobile speeds to find out which one was faster. The results are in the table below:
-
-<FlatUiTable
-  data={{
-    url: 'sgi_fb_mob_fastest.csv'
-  }}
- /> 
-
- **Data source:** [Ookla Speedtest Global Index](https://www.speedtest.net/global-index)
-
-## VEGA TEST
+/>
 
 <Vega
   data={{
@@ -370,7 +356,7 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
   }}
   spec={{
     $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-    title: "Maximun and minimum Mbps speeds in major areas",
+    title: "Maximum and minimum Mbps speeds in major areas",
     data: {
       name: 'table'
     },
@@ -389,3 +375,15 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
     mark: 'bar'
   }}
 />
+
+## Fastest speed between fixed broadband and mobile in selected countries
+
+The **DataHub team** compared the countries where Ookla registered both fixed broadband and mobile speeds to find out which one was faster. The results are in the table below:
+
+<FlatUiTable
+  data={{
+    url: 'sgi_fb_mob_fastest.csv'
+  }}
+ /> 
+
+ **Data source:** [Ookla Speedtest Global Index](https://www.speedtest.net/global-index)
