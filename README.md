@@ -99,7 +99,7 @@ By UN regions, these are the countries with the highest fixed broadband internet
 - Central Asia: **Uzbekistan** (69.37 Mbps).
 - Eastern Africa: **Mauritius** (51.61 Mbps).
 - Eastern Asia: **Hong Kong (SAR)** (280.00 Mbps).
-- Eastern Europe: ** Romania** (200.94 Mbps).
+- Eastern Europe: **Romania** (200.94 Mbps).
 - Melanesia: **Fiji** (26.36 Mbps).
 - Middle Africa: **Gabon** (41.42 Mbps).
 - Northern Africa: **Egypt** (76.48 Mbps).
