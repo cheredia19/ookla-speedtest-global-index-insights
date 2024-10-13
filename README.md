@@ -327,20 +327,20 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
         y: 15.10
       },
       {
-        x: "PHI-2020",
-        y: 1600684
+        x: "Asia (max)",
+        y: 398.51
       },
       {
-        x: "PHI-2024",
-        y: 1533828
+        x: "Asia (min)",
+        y: 7.91
       },
       {
-        x: "SA-2020",
-        y: 1439257
+        x: "Europe (max)",
+        y: 133.44
       },
       {
-        x: "SA-2024",
-        y: 1513974
+        x: "Europe (min)",
+        y: 11.98
       },
       {
         x: "SD-2020",
