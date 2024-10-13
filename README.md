@@ -312,3 +312,40 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
  /> 
 
  **Data source:** [Ookla Speedtest Global Index](https://www.speedtest.net/global-index)
+
+## VEGA TEST
+
+<Vega
+  data={{
+    table: [
+      {
+        x: "Africa (max)",
+        y: 51.96
+      },
+      {
+        x: "Africa (min)",
+        y: 15.10
+      }
+    ]
+  }}
+  spec={{
+    $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+    title: "Population change in US major cities",
+    data: {
+      name: 'table'
+    },
+    encoding: {
+      x: {
+        field: 'x',
+        title: 'Cities',
+        type: 'ordinal'
+      },
+      y: {
+        field: 'y',
+        title: 'Population',
+        type: 'quantitative'
+      }
+    },
+    mark: 'bar'
+  }}
+/>
