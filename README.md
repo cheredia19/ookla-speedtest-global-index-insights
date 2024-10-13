@@ -17,6 +17,12 @@ At DataHub, we have taken the latest available data (August 2024) on average spe
 
 ## Fixed broadband
 
+Three Asian countries recorded the highest median speed average in fixed broadband connections, measured in megabits per second. The United Arab Emirates (297.62), Singapore (297.57), and Hong Kong (280) are the first three out of 161 countries. 
+
+Chile, the United States of America, Thailand, France, Denmark, Iceland, and Israel completed the top ten.
+
+Below is the full list of median fixed broadband speeds by country:
+
 <FlatUiTable
   data={{
     url: 'sgi_fb_aug_2024_upd.csv'
