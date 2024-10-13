@@ -155,7 +155,82 @@ And the States that registered the lowest fixed broadband speed by region were:
   title="Minimum speed by region"
   xAxis="region"
   yAxis="min_mbps"
-/> 
+/>
+
+<Vega
+  data={{
+    table: [
+      {
+        x: "Africa (max)",
+        y: 76.48
+      },
+      {
+        x: "Africa (min)",
+        y: 8.53
+      },
+      {
+        x: "Asia (max)",
+        y: 297.62
+      },
+      {
+        x: "Asia (min)",
+        y: 3.53
+      },
+      {
+        x: "Europe (max)",
+        y: 223.72
+      },
+      {
+        x: "Europe (min)",
+        y: 30.74
+      },
+      {
+        x: "Latin America and the Caribbean (max)",
+        y: 265.62
+      },
+      {
+        x: "Latin America and the Caribbean (min)",
+        y: 12.09
+      },
+      {
+        x: "Northern America (max)",
+        y: 242.27
+      },
+      {
+        x: "Northern America (min)",
+        y: 188.20
+      },
+      {
+        x: "Oceania (max)",
+        y: 178.80
+      },
+      {
+        x: "Oceania (min)",
+        y: 26.36
+      }
+    ]
+  }}
+  spec={{
+    $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
+    title: "Maximum and minimum Mbps speeds in major areas",
+    data: {
+      name: 'table'
+    },
+    encoding: {
+      x: {
+        field: 'x',
+        title: 'Area',
+        type: 'ordinal'
+      },
+      y: {
+        field: 'y',
+        title: 'Mbps speed',
+        type: 'quantitative'
+      }
+    },
+    mark: 'bar'
+  }}
+/>
 
 ## Mobile: two countries over 300 megabits per second
 
