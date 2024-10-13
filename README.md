@@ -233,6 +233,8 @@ The countries with the slowest mobile internet by geographical area are:
   yAxis="min_mbps"
 />
 
+As seen above, mobile speed in the areas is similar, except in North America and Oceania, where it's faster.
+
 <PlotlyBarChart
   data={{
     url: 'mob_region_max_mbps.csv'
