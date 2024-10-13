@@ -157,6 +157,8 @@ And the States that registered the lowest fixed broadband speed by region were:
   yAxis="min_mbps"
 />
 
+The Vega chart below compares the maximum and minimum fixed broadband speed recorded in the six zones. Not pretty much in North America and Oceania, but what about Asia?
+
 <Vega
   data={{
     table: [
