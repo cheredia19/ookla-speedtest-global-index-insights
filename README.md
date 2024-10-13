@@ -195,7 +195,16 @@ Almost two thirds (64%) of the territories listed **record a speed under 60 Mbps
   title="Number of countries by median speeds"
   xAxis="speed"
   yAxis="countries"
-/> 
+/>
+
+By the UN major areas, the countries with the fastest mobile internet are:
+
+- Africa: **South Africa** (51,96 Mbps).
+- Asia: **United Arab Emirates** (398,51 Mbps).
+- Europe: **Netherlands** (133,44 Mbps).
+- Latin America and the Caribbean: **Brazil** (73,08 Mbps).
+- Northern America: **United States** (103,73 Mbps).
+- Oceania: **Australia** (97,86 Mbps).
 
 <PlotlyBarChart
   data={{
