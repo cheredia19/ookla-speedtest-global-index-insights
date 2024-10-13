@@ -295,7 +295,9 @@ And these States have the slowest mobile speed in their regions:
   yAxis="min_mbps"
 /> 
 
-## Fastest speed
+## Fastest speed between fixed broadband and mobile in selected countries
+
+The DataHub team compared the countries where Ookla registered both fixed broadband and mobile speeds to find out which one is faster. The results are in the table below:
 
 <FlatUiTable
   data={{
