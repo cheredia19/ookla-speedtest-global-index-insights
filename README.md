@@ -29,6 +29,15 @@ description: Insights from the Ookla Speedtest Global Index
   title="Number of countries by median speeds"
   xAxis="speed"
   yAxis="countries"
+/>
+
+<PlotlyBarChart
+  data={{
+    url: 'fb_area_max_mbps.csv'
+  }}
+  title="Maximum speed by major area"
+  xAxis="major_area"
+  yAxis="mbps"
 /> 
 
 ### Mobile
