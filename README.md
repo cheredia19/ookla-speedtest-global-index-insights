@@ -325,14 +325,6 @@ The **DataHub team** compared the countries where Ookla registered both fixed br
       {
         x: "Africa (min)",
         y: 15.10
-      }.
-      {
-        x: "Asia (max)",
-        y: 398.51
-      },
-      {
-        x: "Asia (min)",
-        y: 7.91
       }
     ]
   }}
