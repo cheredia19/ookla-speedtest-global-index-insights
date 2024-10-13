@@ -3,9 +3,17 @@ title: Ookla Speedtest Global Index insights
 description: Insights from the Ookla Speedtest Global Index
 ---
 
-## Median country speeds (updated August 2024)
+In today’s fast-paced, digitally connected world, a reliable and fast internet connection is no longer a luxury but a necessity. 
 
-### Fixed broadband
+From remote work and online learning to streaming entertainment and staying in touch with loved ones, the internet plays a central role in almost every aspect of daily life. 
+
+The **Ookla Speedtest Global Index** is a valuable tool for understanding global internet performance, offering insights into which countries are leading in broadband and mobile internet speeds. 
+
+This data highlights the importance of infrastructure investment and provides a benchmark for individuals and businesses seeking faster, more reliable connectivity. 
+
+Whether improving productivity, enhancing entertainment experiences, or ensuring seamless communication, having access to high-speed internet is crucial for navigating the demands of modern life. The [Ookla index](https://www.speedtest.net/global-index) helps track global progress, informing users and enabling better decisions for optimizing digital experiences.
+
+## Fixed broadband
 
 <FlatUiTable
   data={{
@@ -67,7 +75,7 @@ description: Insights from the Ookla Speedtest Global Index
   yAxis="min_mbps"
 /> 
 
-### Mobile
+## Mobile
 
 <FlatUiTable
   data={{
@@ -129,7 +137,7 @@ description: Insights from the Ookla Speedtest Global Index
   yAxis="min_mbps"
 /> 
 
-### Fastest speed
+## Fastest speed
 
 <FlatUiTable
   data={{
