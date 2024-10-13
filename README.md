@@ -37,7 +37,7 @@ description: Insights from the Ookla Speedtest Global Index
   }}
   title="Maximum speed by major area"
   xAxis="major_area"
-  yAxis="mbps"
+  yAxis="max_mbps"
 /> 
 
 ### Mobile
